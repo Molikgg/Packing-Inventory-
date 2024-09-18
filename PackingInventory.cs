@@ -72,7 +72,7 @@ class Pack
         }
         return true;
     }
-    public Pack(int totalItem, float maxWeight, float maxVolume)
+    public Pack(int totalItem, float maxWeight, float maxVolume) 
     {
         TotalItem = totalItem;
         MaxWeight = maxWeight;
